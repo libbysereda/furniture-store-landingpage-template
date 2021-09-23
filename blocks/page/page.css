@@ -1,11 +1,8 @@
-div, body, p, img {
+div, body, p, img, header, nav, ul, li {
   outline: 1px solid red;
 }
 
 .page {
   max-width: 1152px;
   margin: auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
