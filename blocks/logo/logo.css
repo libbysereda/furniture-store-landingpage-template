@@ -1,0 +1,19 @@
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo__image {
+  width: 30px;
+  height: 30px;
+}
+
+.logo__title {
+  text-transform: uppercase;
+  margin: 0;
+  padding-left: 8px;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.25em;
+}
