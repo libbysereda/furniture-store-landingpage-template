@@ -1,0 +1,36 @@
+.home {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto-fit;
+  padding: 0 0 178px 102px;
+}
+
+.home__caption {
+  padding-top: 52px;
+  display: flex;
+  flex-direction: column;
+}
+
+.home__title {
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 49px;
+  margin: 0;
+}
+
+.home__title-emphasis {
+  font-weight: bold;
+}
+
+.home__subtitle {
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 98px;
+  margin: 16px 0;
+  color: #313235;
+}
+
+.home__image {
+  width: 568px;
+  height: 577px;
+}
