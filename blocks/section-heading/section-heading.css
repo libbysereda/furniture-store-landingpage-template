@@ -1,0 +1,24 @@
+.section-heading {
+  width: calc(100% - 2 * 102px);
+  margin: 0 102px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.section-heading__title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 49px;
+  margin: 0;
+}
+
+.section-heading__subtitle {
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 98px;
+  text-align: right;
+  text-transform: uppercase;
+  color: rgba(34, 34, 34, 0.1);
+  margin: 0;
+}
