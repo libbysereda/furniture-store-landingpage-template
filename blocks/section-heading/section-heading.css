@@ -1,6 +1,6 @@
 .section-heading {
-  width: calc(100% - 2 * 102px);
-  margin: 0 102px;
+  width: calc(100% - 2 * 100px);
+  padding: 0 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
