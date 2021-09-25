@@ -8,6 +8,8 @@
   margin: 40px auto 0;
   grid-template-columns: repeat(auto-fit, 280px);
   gap: 40px 56px;
+  list-style-type: none;
+  padding: 0;
 }
 
 .categories__item {
